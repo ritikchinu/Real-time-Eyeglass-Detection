@@ -4,7 +4,7 @@ Real-time Eyeglass Detection framework based on deep features present in facial 
 # Getting Started
 * [Training and Optimizing](Training_and_Optimizing.ipynb) extracts the features using InceptionV3 from custom dataset. The feature extraction and training process is fine-tuned by Optimizing different model hyper-parameters.
 * [Haar-cascade](haarcascade_face.xml) defines the haar features for extraction of face during real-time.
-* [Saved model](https://medium.com/@aklson_DS/how-to-properly-setup-your-github-repository-mac-version-3a8047b899e5) includes the saved model weights of fine-tuned model.
+* [Saved model](https://drive.google.com/file/d/1y__WYYk1SxB6dhYn8kEXdzDdKm9UJMOa/view?usp=sharing) includes the saved model weights of fine-tuned model.
 * [Runnable framework](output.py) captures frames in real-time, extract faces and detect the presence of eyeglass for each face.
 
 ## Requirements
