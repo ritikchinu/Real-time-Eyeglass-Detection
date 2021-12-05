@@ -1,1 +1,1 @@
-# Real-time-Eyeglass-Detection
+# Real-time Eyeglass Detection
